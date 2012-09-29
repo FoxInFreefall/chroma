@@ -6,7 +6,6 @@
 package Invertables;
 
 import Prop.Invertable;
-import Prop.Invertable;
 
 /**
  *
